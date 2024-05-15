@@ -1,0 +1,295 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.27f1 (73effa14754f) revision 7598074'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 16002 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker9
+-projectPath
+C:/Users/mikul/My project
+-logFile
+Logs/AssetImportWorker9.log
+-srvPort
+59862
+Successfully changed project path to: C:/Users/mikul/My project
+C:/Users/mikul/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [816] Host "[IP] 172.30.80.1 [Port] 0 [Flags] 2 [Guid] 3381778205 [EditorId] 3381778205 [Version] 1048832 [Id] WindowsEditor(7,Katarina) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [816] Host "[IP] 172.30.80.1 [Port] 0 [Flags] 2 [Guid] 3381778205 [EditorId] 3381778205 [Version] 1048832 [Id] WindowsEditor(7,Katarina) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 1779.00 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.27f1 (73effa14754f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mikul/My project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7971 MB
+    Driver:   31.0.15.2897
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.013380 seconds.
+- Loaded All Assemblies, in  0.303 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 463 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.725 seconds
+Domain Reload Profiling: 1026ms
+	BeginReloadAssembly (116ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (115ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (103ms)
+			TypeCache.Refresh (102ms)
+				TypeCache.ScanAssembly (89ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (725ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (688ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (567ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (75ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.361 seconds
+Refreshing native plugins compatible for Editor in 12.29 ms, found 17 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[XR] Error loading subsystem: Display (1) (header mismatch?)
+[XR] [MROpenXR][Info   ][19:53:29.341508][tid:330] OnPluginStarted UnityVersion=2022.3.27f1 OpenXRPluginVersion=1.10.0 MROpenXRPluginVersion=1.10.1.0 PartA_PrivTags=33554432
+[XR] [MROpenXR][Info   ][19:53:29.341508][tid:330] OnPluginStarted UnityVersion=2022.3.27f1 OpenXRPluginVersion=1.10.0 MROpenXRPluginVersion=1.10.1.0 PartA_PrivTags=33554432
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.676 seconds
+Domain Reload Profiling: 4033ms
+	BeginReloadAssembly (104ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (16ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (3194ms)
+		LoadAssemblies (3054ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (202ms)
+			TypeCache.Refresh (173ms)
+				TypeCache.ScanAssembly (154ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (677ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (519ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (346ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 12.49 ms, found 17 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5633 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 110 unused Assets / (1.3 MB). Loaded Objects now: 6117.
+Memory consumption went from 205.3 MB to 204.0 MB.
+Total: 4.590200 ms (FindLiveObjects: 0.539500 ms CreateObjectMapping: 0.289600 ms MarkObjects: 3.212300 ms  DeleteObjects: 0.547000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/AutoAddInputModules.cs: 24e64a6d6089980cb52bde0be70a48e8 -> d6dc6ad855c6a1e780b4c7e06e6d77a0
+  custom:scripting/monoscript/fileName/CanvasElementMeshtInspector.cs: b9c719e0bd5ce6f972ce7f91db079e09 -> e8f7e199d571292f127fc3f17087c027
+  custom:scripting/monoscript/fileName/HoverLightInspector.cs: 367b9a815b40943b8731a961254cc6e5 -> d14380a559a9f79c106a294cc7fa3a38
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ExperimentalAttribute.cs: 8a7970cdf6020604a82597ab39ba2663 -> e415ab88fb98af7d4dff0aa0b1f496d9
+  custom:scripting/monoscript/fileName/DistantLightInspector.cs: 5e75b923b2e51ac8ac6798997983701a -> 65f03211350913ffe254641944b46824
+  custom:scripting/monoscript/fileName/DistantLight.cs: 55757ecdf8eca758d82f142ef0419032 -> 2f55172595f253a99b2596e817a57a22
+  custom:scripting/monoscript/fileName/MeshInstancer.cs: 1e38a4766a91e6ed7c8df3c1cb10a414 -> 4a5c8e69d90b6831acc45306cded065b
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasFrontplate.cs: b6d11f5a39bc98eac2c852d1f9844b01 -> ad5cb16a5959a1aa9a83e95fe210a728
+  custom:scripting/monoscript/fileName/WireframeShaderGUI.cs: 452d78162e91fa24f703a24a901383cb -> 5cb948ff0746cb58d3536044d431c412
+  custom:scripting/monoscript/fileName/ClippingPlaneInspector.cs: df4202f411abf475caaa56f8a7fd1071 -> 45a7add4f510cd046b0b30641f27de23
+  custom:scripting/monoscript/fileName/ClippingSphere.cs: ac39927bd1074ab0ca8685073300bf26 -> 7fd34c4bcdfa7f65d8314e0f01039c78
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorGraphicsToolsTextMeshPro.cs: 7a926dc92c95e905dc6b3dab0b6a59e5 -> 3ce9dc8b0bfa7ea70b5853caf0dea3e1
+  custom:scripting/monoscript/fileName/ClippingPrimitive.cs: 9acce1fa1d9e23a5f281d59634450076 -> 13d51cdc3270073b81ba5363ca185635
+  custom:scripting/monoscript/fileName/ScreenshotUtilities.cs: e519e262376af93add2f717a6dce85ae -> 18020c9ec77376be1c8c90bff4df04c5
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/DependencyWindow.cs: 8c8e2e6c7c1ed8270798b2e13e86dafc -> 78adb8d29815ccf905a90419eb21bc42
+  custom:scripting/monoscript/fileName/MeshOutlineHierarchy.cs: 32266a8a0ec7aeab2ddaacbe194cae25 -> 2ce8322dea0e91fd617779b8a8a7540c
+  custom:scripting/monoscript/fileName/ClippingPlane.cs: b12f0c0ac066e823f2c09f14ebd42aa2 -> 8eb4b4d560d9425ec6f57d2e905b862a
+  custom:scripting/monoscript/fileName/CanvasElementRoundedRectInspector.cs: 00bad5f63541121ccdbd0ef110be3e02 -> 87dbbf81667c5355102aaad037ede079
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/RectMask2DFast.cs: 52af286770ccb2b9cf0ef3340efd3059 -> e37c82f1cafe431b779c2748fef3ef40
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorBase.cs: b1e3ebf9b6eb3610e95557d86e7143aa -> 338839cc46883df02291ad6b47723ef7
+  custom:scripting/monoscript/fileName/BaseCanvasMaterialAnimatorInspector.cs: 3de5a35b38eaf6d73526aac408e21d60 -> 040da3f1ad4a1d8b5cedcb03920ebe5a
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/MeasureToolWindow.cs: 7fceb2642b41580d331c118b6237b4d4 -> cb9bdbbbe294d58dde702595cb8036d3
+  custom:scripting/monoscript/fileName/ProximityLight.cs: 6f3456b2dae11a7da3ffb6dc908bbaf0 -> 003ab9a4575b13ac754725b95559f83a
+  custom:scripting/monoscript/fileName/ComponentExtensions.cs: 4e1900110b58c820939be6357f41f4a0 -> a670258885319bbb438f8e1fa826cc87
+  custom:scripting/monoscript/fileName/MeshOutline.cs: 7b63a7b57d1348fa2fe61aa95c86f70a -> bf32348361c5a16d222c2efe7e5cf49b
+  custom:scripting/monoscript/fileName/ScaleMeshEffect.cs: fe5baee7f3b9e2abc47ec4259f9b2a70 -> f9893317da31076dc8a266898828b553
+  custom:scripting/monoscript/fileName/CanvasInspector.cs: 6cea8981f341376c7b423418e3693f6e -> 62331ea319aed47b28f09965aad15bf6
+  custom:scripting/monoscript/fileName/CanvasUtilities.cs: a292460ac2793a61e2ab36c703532e4c -> 9bc0cab7f0e53bbe7660385dd3d0784e
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/HoverLight.cs: db4b1988b4216ac5156e30abaf5ce2cc -> 8b6f4b3a1c6baf6399dfada95c7c4e72
+  custom:scripting/monoscript/fileName/BaseShaderGUI.cs: 7b9fc72ce3667210806df5c60e16cdf5 -> 048f0278900839637d73d5b3ff381983
+  custom:scripting/monoscript/fileName/MeasureToolEditorTool.cs: f8d657bcccf2f42bd89525dd1a5eb7ec -> 69f1111a816c40bc3baf9f15ad935825
+  custom:scripting/monoscript/fileName/RectMask2DInspector.cs: d26da2b7a67c6faf83163372077981b0 -> ae6dd2a2e4ff5c2dda5070f285753549
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/MeshCombineSettingsObject.cs: 4cc4d557b6edbdce039ff970a644a0f8 -> 252cb0a75462f8c7ccc1458342a9c88c
+  custom:scripting/monoscript/fileName/BaseLight.cs: e367aea41eca088792302fd8211db1f7 -> 8fde7f1d4c7ba8038ed40f437176c35a
+  custom:scripting/monoscript/fileName/CanvasElementMesh.cs: 0990209e2f5da2a9951f5a1d1bfb203a -> cf92fb8ee227b044802108cf8fb665a3
+  custom:scripting/monoscript/fileName/BaseMeshOutlineInspector.cs: 658235cc156f93929ccc54c34c9872c9 -> b8b44b37c104f865e5d70feb49c67202
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasBackplate.cs: 196f70b95166bc24f36d0c57ed3fdd74 -> 250ece3649b241a0c4e58834a48cac54
+  custom:scripting/monoscript/fileName/ShaderUtilities.cs: 17fdb529815baaed47088cd23e7deaba -> 9369072770a83155f1ffec823ec47783
+  custom:scripting/monoscript/fileName/ProximityLightInspector.cs: f9c2fc7dac8f71312d0217434a044f7e -> 74e23ad8f7db5406fae69f78f3f9e0d2
+  custom:scripting/monoscript/fileName/CanvasElementBeveledRectInspector.cs: 80b4fced6922ba45c92b1d5d066e0c82 -> ae07f40c9b293d8a755910335b8c40b1
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasGlow.cs: 4a54814b38c179e2d2d72bbe9fcac851 -> f8669c70c8072d6fd861c5f16fe14b22
+  custom:scripting/monoscript/fileName/ClippingBoxInspector.cs: 66b7dcc94f6f85a66a20b7372ecf57ee -> e3d60fe5c3b741ddf7fe5e51fd2e9d63
+  custom:scripting/monoscript/fileName/RoundedRectMask2DInspector.cs: 21a3bbdaf8f8cc9b5781d94eac3c8436 -> c67cc4311ad31bd1e89b98dd4137e2f8
+  custom:scripting/monoscript/fileName/TextMeshProShaderGUI.cs: 80ed2f41e15130167de60f1c7ad8e594 -> 06e8a31d723b039a38645fc2ab1c8f54
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorGraphicsToolsWireframe.cs: 326ae0eec1c806a4b1bd024109acfd10 -> e11b42e080fa1ccfd20f2049fb7c3e6e
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/TextureFile.cs: 2da07a8f204079c03362571a3c194e7d -> e5ce6b33a6b181fca88d030e787508f0
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/ExperimentalPropertyDrawer.cs: 44846dc8c428a4578c4e4e9c975837ee -> 7dae34220fcebbcedc54d0be9c5bb2fe
+  custom:scripting/monoscript/fileName/MeshSmoother.cs: fdd09fca91021234ad00f72c5623c4f0 -> 9001fa44f10cb6bf0cf03dd53b67d8d6
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/AccessibilityUtilities.cs: 1675de43116622b9a7c2938f6bef087b -> a6ba03d8a5db3b64f3f5268faea0ec73
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorGraphicsToolsStandard.cs: 940215e035fc64b15939313d54b6d544 -> e8527073f86c23ca484fb6177247818d
+  custom:scripting/monoscript/fileName/StandardShaderGUI.cs: 845403310a268e244eece0ab49764f85 -> 99fdedbc54cd8ac547f619778ee6f208
+  custom:scripting/monoscript/fileName/FlyCameraController.cs: 053100e9f7a81dfcde8b6544c6afa9c9 -> be368716f70d174433a81f92689aea20
+  custom:scripting/monoscript/fileName/ThemeCollection.cs: 45376275b84e08c8b6589aa8eacbf554 -> f0f23208f10bd95bbae9a1188313b286
+  custom:scripting/monoscript/fileName/ClippingPrimitiveInspector.cs: e4a0be7dc500fe66e43a3403847c7a9c -> df77cef277cfbb41343e63946cc5412c
+  custom:scripting/monoscript/fileName/CameraEventRouter.cs: c1e501a3a58b3febab4674bb0abecee6 -> 9aa0f645920e980bdc520fbfa46a2be2
+  custom:scripting/monoscript/fileName/MeasureTool.cs: 245b318b02b7a5dd46aab93d169a7f91 -> 15835ebd7e89cc53d2220fdbebe2da2b
+  custom:scripting/monoscript/fileName/FrontPlatePulse.cs: 6e0354eceb0e314cb111bf6799a9f669 -> ea71550ffa7330d538a2c2cd96c0e27b
+  custom:scripting/monoscript/fileName/RectMask2DFastInspector.cs: 2c75436b0d93bbd1793283c090b68256 -> 6c210705bfa43ea704ac23784df3d756
+  custom:scripting/monoscript/fileName/CanvasElementRoundedRect.cs: 3f97a1225479ceb2559ba816d4a58566 -> f1bab918234bbc130e25fbd0be3ad87b
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasQuadGlow.cs: ab03cd7adedefe870ed86e779ccd8d51 -> 11518c1c45445757677b1ac211edb9a9
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasProgressBar.cs: c2ed20ccc11613d0c60141e9faeefce1 -> b1fcca0faceca3bd5e7aa0f43f162f91
+  custom:scripting/monoscript/fileName/DevelopmentUtilities.cs: 05cefcc59426ec99cff69dc0a1ec6fd0 -> 746da12e478dcb84338c4b2068298e21
+  custom:scripting/monoscript/fileName/ClippingBox.cs: b42a51e760394aa53630b3c86547a1d4 -> dd14b0880860c6b722b4765e323d4048
+  custom:scripting/monoscript/fileName/MeshCombineResultObject.cs: 63b991ad1b92f1b66ac179ee6c23de8b -> e650cc5bb9fa327c7fa97b43cddbb742
+  custom:scripting/monoscript/fileName/BaseMeshOutline.cs: f3955bd09969b31fdc07b2230933721e -> 25687a3b6976bab2861c8a622c72e270
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasRadialSpinner.cs: e1dd8ff3c3c21136cc22cad75f88738a -> 9c7b27fc36f123d9765e34a77f1161cc
+  custom:scripting/monoscript/fileName/TextureCombinerWindow.cs: 250983a1ff8936701ec007e977f6f538 -> dc1cfafe46694caab6f2fc2038edc035
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ClippingSphereInspector.cs: 12b3c4c491b06f759e87a6832137ab55 -> f3cd091b4f9af91b9bbdfce2d72b458d
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ThreadSafeRandom.cs: 69b08cc0f454164d9fc14ec97b1ed984 -> e1399d0d523101d6bed1f4a00987fe04
+  custom:scripting/monoscript/fileName/MaterialInstance.cs: bcfc5191940b93af12ce80b24545964c -> b1601f8a45d5d9d1f28e9a89a4fc813c
+  custom:scripting/monoscript/fileName/MeshOutlineHierarchyInspector.cs: 9ec8b059ca5391c252c30e461e474981 -> c9302c5e44a15599b8e3565b4b933cb6
+  custom:scripting/monoscript/fileName/StandardShaderUtility.cs: ff931279099e7d6c0724c8b9804daeb3 -> b1d9cb08c0a33d4b8d8ef568c730ac42
+  custom:scripting/monoscript/fileName/IMaterialInstanceOwner.cs: 4e7398b3d56a558ea43b508b5db56bf8 -> 98e07bc7cb351300546eb78aa8771e4d
+  custom:scripting/monoscript/fileName/CanvasElementBeveledRect.cs: a21f267bba45288a30cb7db5a57339f0 -> 0335ebe6d87e41407b9fc48d30448d4a
+  custom:scripting/monoscript/fileName/MeshCombinerWindow.cs: c171103c2530b36c5b4279bdb32af4a8 -> 59fd476365652fe6266e2f2865363fe2
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorCanvasBeveled.cs: 196042632cdf584e88fadbf2df4e64b8 -> 2929e8f84eae38ea633f9829cddcf1ba
+  custom:scripting/monoscript/fileName/CanvasShadow.cs: 7862fb0d25317968c87d8ea4dc92b2f1 -> 132ab918338a7f0620cd46853335c8fe
+  custom:scripting/monoscript/fileName/MaterialRestorer.cs: 8aa48d59a5a3bd23f5cd0a83cd41d2a4 -> e6a3ee3114f255404603a358f2c8cc20
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/MeshUtility.cs: 51042a1fc6480c76231381ac99d1d26e -> d490eed556d58987e194b61df9464184
+  custom:scripting/monoscript/fileName/ShaderGUIUtilities.cs: 25fe10c152abf3cc0f3afd08ce9c2785 -> 9929d673a00723412880a0c048e98f93
+  custom:scripting/monoscript/fileName/CanvasRendererInspector.cs: 994a521eb644197eb6ba23b0469c4c76 -> 55bfc3f0e2b9667c34abf3eeaf25aecb
+  custom:scripting/monoscript/fileName/MeasureToolSettings.cs: 557b434e7b9c2f437470f7582e5531cc -> 099a9786597ed60eecbd05ec120296f4
+  custom:scripting/monoscript/fileName/InspectorUtilities.cs: 07e955b8cdc0adadb55b945f0b76e67a -> 89aff8a17267d5f2d53b354cc23ee8c1
+  custom:scripting/monoscript/fileName/CanvasMaterialAnimatorGraphicsToolsStandardCanvas.cs: 4c5562894fa9084c65373fa4f5ee4486 -> 08cdf5f28548a38e2b78811287780d42
+  custom:scripting/monoscript/fileName/RoundedRectMask2D.cs: 945dd7afe32ec54bbbbaed27894ac115 -> 577333b168115d8517e1429d68888a2c
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

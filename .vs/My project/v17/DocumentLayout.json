@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mikul\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\mikul\\My project\\assets\\scripts\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\mikul\\my project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\My project\\Library\\ArtifactDB||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\ArtifactDB||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArtifactDB",
-              "DocumentMoniker": "C:\\Users\\mikul\\My project\\Library\\ArtifactDB",
-              "RelativeDocumentMoniker": "Library\\ArtifactDB",
-              "ToolTip": "C:\\Users\\mikul\\My project\\Library\\ArtifactDB",
-              "RelativeToolTip": "Library\\ArtifactDB",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-05T20:58:28.583Z"
+              "Title": "PressableButton.cs",
+              "DocumentMoniker": "C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs",
+              "ToolTip": "C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs",
+              "RelativeToolTip": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Button\\PressableButton.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:52:47.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Shader.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\My project\\Assets\\Scripts\\Shader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Shader.cs",
-              "ToolTip": "C:\\Users\\mikul\\My project\\Assets\\Scripts\\Shader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Shader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Title": "ReplaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\mikul\\My project\\Assets\\Scripts\\ReplaceObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",
+              "ToolTip": "C:\\Users\\mikul\\My project\\Assets\\Scripts\\ReplaceObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:58:23.747Z",
+              "WhenOpened": "2024-05-09T18:51:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MRTKLifecycleManager.cs",
+              "DocumentMoniker": "C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs",
+              "ToolTip": "C:\\Users\\mikul\\My project\\Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\org.mixedrealitytoolkit.core@f006db6463bb\\Subsystems\\MRTKLifecycleManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvzAAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:31:11.477Z",
               "EditorCaption": ""
             }
           ]

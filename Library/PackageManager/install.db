@@ -11,10 +11,10 @@
     },
     "com.microsoft.mrtk.graphicstools.unity": {
       "tarball": {
-        "hash": "2da042f5f1dc",
-        "mtime": 1714667936532,
-        "size": 16808633,
-        "localPath": "C:\\Users\\mikul\\My project\\Packages\\MixedReality\\com.microsoft.mrtk.graphicstools.unity-0.6.7.tgz"
+        "hash": "31599fea1ed5",
+        "mtime": 1715275704903,
+        "size": 16808739,
+        "localPath": "C:\\Users\\mikul\\My project\\Packages\\MixedReality\\com.microsoft.mrtk.graphicstools.unity-0.7.0.tgz"
       }
     },
     "com.microsoft.mrtk.tts.windows": {
