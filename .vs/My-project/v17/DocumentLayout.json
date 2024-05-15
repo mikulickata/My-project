@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\netmedia cg\\desktop\\radovi\\zr_2024_ljeto_mikulic_katarina\\my-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:17:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

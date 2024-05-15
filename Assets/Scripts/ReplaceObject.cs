@@ -23,7 +23,7 @@ public class ReplaceObject : MonoBehaviour
         {
             objects[index].SetActive(true);
             // Postavljamo objekt na poziciju roditeljskog GameObjecta uz dodatak offseta
-            objects[index].transform.position = transform.position + offsetFromParent;
+            objects[index].transform.position = transform.position;
         }
     }
 
