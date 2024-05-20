@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\",
+  "WorkspaceRootPath": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NextText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\netmedia cg\\desktop\\radovi\\zr_2024_ljeto_mikulic_katarina\\my-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NextText.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextText.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeToolTip": "Assets\\Scripts\\NextText.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAswDMAAAAdAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T17:55:23.806Z",
               "EditorCaption": ""
@@ -45,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Dialog.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "RelativeToolTip": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "ViewState": "AQIAABYBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ReplaceObject.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
