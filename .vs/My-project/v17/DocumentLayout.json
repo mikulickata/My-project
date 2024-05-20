@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NextText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\mikul\\zavrsni-rad\\my-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,7 +41,11 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextText.cs",
               "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeToolTip": "Assets\\Scripts\\NextText.cs",
+<<<<<<< Updated upstream
               "ViewState": "AQIAAEEAAAAAAAAAAAAswDMAAAAdAAAA",
+=======
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxUAAAAgAAAA",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T17:55:23.806Z",
               "EditorCaption": ""
@@ -75,7 +84,8 @@
               "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:17:17.01Z"
+              "WhenOpened": "2024-05-15T09:17:17.01Z",
+              "EditorCaption": ""
             }
           ]
         }
