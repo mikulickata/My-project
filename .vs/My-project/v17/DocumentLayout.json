@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\netmedia cg\\desktop\\radovi\\zr_2024_ljeto_mikulic_katarina\\my-project\\assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\netmedia cg\\desktop\\radovi\\zr_2024_ljeto_mikulic_katarina\\my-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,28 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:39:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NextText.cs",
               "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextText.cs",
               "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeToolTip": "Assets\\Scripts\\NextText.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDMAAAAdAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T17:55:23.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Plane.cs",
               "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
@@ -55,11 +68,12 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T08:40:00.355Z"
+              "WhenOpened": "2024-05-17T08:40:00.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dialog.cs",
               "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
@@ -67,11 +81,16 @@
               "RelativeToolTip": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "ViewState": "AQIAABYBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T08:14:05.02Z"
+              "WhenOpened": "2024-05-17T08:14:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReplaceObject.cs",
               "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",

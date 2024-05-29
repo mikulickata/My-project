@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ReplaceObject.cs" />
     <Compile Include="Assets\Scripts\NextText.cs" />
+    <Compile Include="Assets\Scripts\QuizManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
