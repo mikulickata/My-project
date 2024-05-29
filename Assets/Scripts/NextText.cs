@@ -31,8 +31,8 @@ public class NextText : MonoBehaviour
         canvas2.SetActive(false);
         canvas3.SetActive(false);
 
-        cube.SetActive(true);
-        planeOfTheCube.SetActive(false);
+        cube.SetActive(false);
+        planeOfTheCube.SetActive(true);
         newCube.SetActive(false);
         newPlaneOfTheCube.SetActive(false);
     }
@@ -43,8 +43,8 @@ public class NextText : MonoBehaviour
         canvas2.SetActive(true);
         canvas3.SetActive(false);
 
-        cube.SetActive(false);
-        planeOfTheCube.SetActive(true);
+        cube.SetActive(true);
+        planeOfTheCube.SetActive(false);
         newCube.SetActive(false);
         newPlaneOfTheCube.SetActive(false);
     }
