@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\",
+  "WorkspaceRootPath": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\mikul\\zavrsni-rad\\my-project\\assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\mikul\\zavrsni-rad\\my-project\\assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\netmedia cg\\desktop\\radovi\\zr_2024_ljeto_mikulic_katarina\\my-project\\assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\Question.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\Question.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Question.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\Question.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\Question.cs",
               "RelativeToolTip": "Assets\\Scripts\\Question.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:35:22.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T11:35:22.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ManageQuiz.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManageQuiz.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
               "RelativeToolTip": "Assets\\Scripts\\ManageQuiz.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDkAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T11:35:14.133Z",
               "EditorCaption": ""
@@ -70,22 +69,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NextText.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextText.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeToolTip": "Assets\\Scripts\\NextText.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAEkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:55:23.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:55:23.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.mathematics@1.2.6\\Unity.Mathematics\\Geometry\\Plane.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Dialog.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "RelativeToolTip": "Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs",
               "ViewState": "AQIAABYBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ReplaceObject.cs",
-              "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",
-              "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
+              "ToolTip": "C:\\Users\\Netmedia CG\\Desktop\\Radovi\\ZR_2024_ljeto_mikulic_katarina\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

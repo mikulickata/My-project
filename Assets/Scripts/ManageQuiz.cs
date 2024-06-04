@@ -41,7 +41,7 @@ public class ManageQuiz : MonoBehaviour
         }
         else
         {
-            questionText.text = "Kviz je završen!";
+            questionText.text = "The quiz is finished! Well done!";
             answerInput.gameObject.SetActive(false);
         }
     }
@@ -51,11 +51,11 @@ public class ManageQuiz : MonoBehaviour
         switch (question.questionType)
         {
             case QuestionType.SurfaceArea:
-                return $"Izraèunaj oplošje kocke sa stranicom {question.dimensions[0]}.";
+                return $"Calculate the surface area of a cube with side length {question.dimensions[0]}.";
             case QuestionType.Volume:
-                return $"Izraèunaj volumen kocke sa stranicom {question.dimensions[0]}.";
+                return $"Calculate the volume of a cube with side length {question.dimensions[0]}.";
             case QuestionType.DimensionCalculation:
-                return $"Ako kocka ima volumen {question.dimensions[0]} i jedna stranica je {question.dimensions[1]}, koliko je druga stranica?";
+                return $"If a cube has volume of {question.dimensions[0]}, what is the legnth of its sides?";
             default:
                 return "";
         }
@@ -90,27 +90,24 @@ public class ManageQuiz : MonoBehaviour
     public void CheckAnswer()
     {
         string input = answerInput.text;
-        Debug.Log($"Tip answerInput.text: {input.GetType()}");
 
         if (float.TryParse(input, out float userAnswer))
         {
             if (Mathf.Approximately(userAnswer, questions[currentQuestionIndex].correctAnswer))
             {
-                feedbackText.text = "Toèno!";
+                feedbackText.text = "Correct!";
                 currentQuestionIndex++;
                 DisplayQuestion();
             }
             else
             {
-                feedbackText.text = "Netoèno, pokušaj ponovo.";
+                feedbackText.text = "Incorrect, try again.";
             }
         }
         else
         {
-            feedbackText.text = "Unesi važeæi broj.";
+            feedbackText.text = "Enter a valid number.";
         }
-        Debug.Log(answerInput.text);
-        Debug.Log(float.TryParse(answerInput.text, out userAnswer));
     }
 }
 
