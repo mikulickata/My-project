@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - ManageQuiz
     - NextText
     - ReplaceObject
     Microsoft.MixedReality.GraphicsTools.dll:
@@ -69,6 +70,7 @@ ScriptsOnlyBuild:
     - MixedReality.Toolkit.UX.FontIconSelector
     - MixedReality.Toolkit.UX.FontIconSet
     - MixedReality.Toolkit.UX.InteractablePulse
+    - MixedReality.Toolkit.UX.MRTKTMPInputField
     - MixedReality.Toolkit.UX.PressableButton
     - MixedReality.Toolkit.UX.RectTransformColliderFitter
     - MixedReality.Toolkit.UX.SeeItSayItLabelEnabler
@@ -146,6 +148,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.OpenXR.OpenXRSettings
     Unity.XR.Simulation.Editor.dll:
     - UnityEditor.XR.Simulation.SimulationEnvironmentAssetsManager
+    - UnityEditor.XR.Simulation.XREnvironmentViewManager
     - UnityEditor.XR.Simulation.XRSimulationSettings
     Unity.XR.Simulation.dll:
     - UnityEngine.XR.Simulation.SimulatedBoundedPlane
@@ -170,8 +173,11 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.RawImage
+    - UnityEngine.UI.RectMask2D
     - UnityEngine.UI.VerticalLayoutGroup
   serializedClasses:
+    Assembly-CSharp:
+    - Question
     Microsoft.MixedReality.GraphicsTools:
     - Microsoft.MixedReality.GraphicsTools.ProximityLight/LightSettings
     Microsoft.MixedReality.OpenXR:
@@ -208,7 +214,6 @@ ScriptsOnlyBuild:
     - MixedReality.Toolkit.UX.DialogButton
     - MixedReality.Toolkit.UX.GraphicTintEffect
     - MixedReality.Toolkit.UX.StateVisualizer/State
-    - MixedReality.Toolkit.UX.TwoWayAnimationEffect
     Unity.InputSystem:
     - UnityEngine.InputSystem.InputAction
     - UnityEngine.InputSystem.InputActionMap
@@ -226,6 +231,11 @@ ScriptsOnlyBuild:
     - TMPro.TMP_GlyphAdjustmentRecord
     - TMPro.TMP_GlyphPairAdjustmentRecord
     - TMPro.TMP_GlyphValueRecord
+    - TMPro.TMP_InputField/OnChangeEvent
+    - TMPro.TMP_InputField/SelectionEvent
+    - TMPro.TMP_InputField/SubmitEvent
+    - TMPro.TMP_InputField/TextSelectionEvent
+    - TMPro.TMP_InputField/TouchScreenKeyboardEvent
     - TMPro.TMP_Sprite
     - TMPro.TMP_SpriteCharacter
     - TMPro.TMP_SpriteGlyph
@@ -270,11 +280,59 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: Assembly-CSharp
+    fullTypeName: NextText
+    methodName: OnPreviousButtonCanvas3
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: Assembly-CSharp
     fullTypeName: ReplaceObject
     methodName: HideObject
   - assembly: Assembly-CSharp
     fullTypeName: ReplaceObject
     methodName: ShowObject
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: NextText
+    methodName: OnNextButtonCanvas2
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: HideObject
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: ShowObject
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
@@ -292,7 +350,7 @@ ScriptsOnlyBuild:
     methodName: PlayOneShot
   - assembly: Assembly-CSharp
     fullTypeName: NextText
-    methodName: OnNextButtonCanvas2
+    methodName: OnPreviousButtonCanvas2
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
@@ -309,29 +367,8 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: HideObject
-  - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: ShowObject
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
+    fullTypeName: NextText
+    methodName: OnPreviousButtonCanvas3
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
@@ -339,47 +376,17 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: HideObject
-  - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: ShowObject
+    fullTypeName: NextText
+    methodName: OnPreviousButtonCanvas3
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
-  - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: HideObject
-  - assembly: Assembly-CSharp
-    fullTypeName: ReplaceObject
-    methodName: ShowObject
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
+  - assembly: MixedReality.Toolkit.UXCore
+    fullTypeName: MixedReality.Toolkit.UX.MRTKTMPInputField
+    methodName: ActivateMRTKTMPInputField
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
@@ -422,6 +429,21 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: HideObject
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: ShowObject
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: UnityEngine.AudioModule
+    fullTypeName: UnityEngine.AudioSource
+    methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: ManageQuiz
+    methodName: CheckAnswer
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
@@ -448,61 +470,28 @@ ScriptsOnlyBuild:
     methodName: PlayOneShot
   - assembly: Assembly-CSharp
     fullTypeName: NextText
-    methodName: OnPreviousButtonCanvas2
+    methodName: OnPreviousButtonCanvas3
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: HideObject
+  - assembly: Assembly-CSharp
+    fullTypeName: ReplaceObject
+    methodName: ShowObject
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
   - assembly: UnityEngine.AudioModule
     fullTypeName: UnityEngine.AudioSource
     methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
-  - assembly: UnityEngine.AudioModule
-    fullTypeName: UnityEngine.AudioSource
-    methodName: PlayOneShot
+  - assembly: Assembly-CSharp
+    fullTypeName: NextText
+    methodName: OnPreviousButtonCanvas3
   sceneClasses:
     Assets/mrtkproject.unity:
     - Class: 1
@@ -616,89 +605,95 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6500}
     - Class: 114
-      Script: {instanceID: 6686}
+      Script: {instanceID: 6792}
     - Class: 114
-      Script: {instanceID: 6794}
+      Script: {instanceID: 6966}
     - Class: 114
-      Script: {instanceID: 6968}
+      Script: {instanceID: 7030}
     - Class: 114
-      Script: {instanceID: 7032}
+      Script: {instanceID: 7776}
     - Class: 114
-      Script: {instanceID: 7778}
+      Script: {instanceID: 7888}
     - Class: 114
-      Script: {instanceID: 7890}
+      Script: {instanceID: 8122}
     - Class: 114
-      Script: {instanceID: 8124}
+      Script: {instanceID: 8284}
     - Class: 114
-      Script: {instanceID: 8286}
+      Script: {instanceID: 8298}
     - Class: 114
-      Script: {instanceID: 8300}
+      Script: {instanceID: 8544}
     - Class: 114
-      Script: {instanceID: 8546}
+      Script: {instanceID: 8726}
     - Class: 114
-      Script: {instanceID: 8728}
+      Script: {instanceID: 9124}
     - Class: 114
-      Script: {instanceID: 9126}
+      Script: {instanceID: 9140}
     - Class: 114
-      Script: {instanceID: 9142}
+      Script: {instanceID: 9144}
     - Class: 114
-      Script: {instanceID: 9146}
+      Script: {instanceID: 9254}
     - Class: 114
-      Script: {instanceID: 9256}
+      Script: {instanceID: 9332}
     - Class: 114
-      Script: {instanceID: 9334}
+      Script: {instanceID: 9400}
     - Class: 114
-      Script: {instanceID: 9402}
+      Script: {instanceID: 9490}
     - Class: 114
-      Script: {instanceID: 9566}
+      Script: {instanceID: 9564}
     - Class: 114
-      Script: {instanceID: 9620}
+      Script: {instanceID: 9618}
     - Class: 114
-      Script: {instanceID: 9676}
+      Script: {instanceID: 9674}
     - Class: 114
-      Script: {instanceID: 9750}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 10134}
+      Script: {instanceID: 10132}
     - Class: 114
-      Script: {instanceID: 10288}
+      Script: {instanceID: 10286}
     - Class: 114
-      Script: {instanceID: 10316}
+      Script: {instanceID: 10314}
     - Class: 114
-      Script: {instanceID: 10466}
+      Script: {instanceID: 10464}
     - Class: 114
-      Script: {instanceID: 10628}
+      Script: {instanceID: 10626}
     - Class: 114
-      Script: {instanceID: 10668}
+      Script: {instanceID: 10666}
     - Class: 114
-      Script: {instanceID: 10718}
+      Script: {instanceID: 10716}
     - Class: 114
-      Script: {instanceID: 10798}
+      Script: {instanceID: 10796}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10836}
     - Class: 114
-      Script: {instanceID: 10862}
+      Script: {instanceID: 10860}
     - Class: 114
-      Script: {instanceID: 10984}
+      Script: {instanceID: 10982}
     - Class: 114
-      Script: {instanceID: 11244}
+      Script: {instanceID: 11242}
     - Class: 114
-      Script: {instanceID: 11304}
+      Script: {instanceID: 11302}
     - Class: 114
-      Script: {instanceID: 11540}
+      Script: {instanceID: 11538}
     - Class: 114
-      Script: {instanceID: 11880}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 12290}
+      Script: {instanceID: 11878}
     - Class: 114
-      Script: {instanceID: 12402}
+      Script: {instanceID: 12288}
     - Class: 114
-      Script: {instanceID: 12500}
+      Script: {instanceID: 12400}
     - Class: 114
-      Script: {instanceID: 12676}
+      Script: {instanceID: 12498}
     - Class: 114
-      Script: {instanceID: 12750}
+      Script: {instanceID: 12674}
     - Class: 114
-      Script: {instanceID: 12804}
+      Script: {instanceID: 12748}
+    - Class: 114
+      Script: {instanceID: 12802}
+    - Class: 114
+      Script: {instanceID: 12860}
+    - Class: 114
+      Script: {instanceID: 12864}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1978,12 +1973,6 @@ ScriptsOnlyBuild:
     className: Follow
   - hash:
       serializedVersion: 2
-      Hash: 14d18078d3b6e6d9c914c7b4f6914ad6
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: NextText
-  - hash:
-      serializedVersion: 2
       Hash: e2429f69aae094f774400b8c21d30e58
     assemblyName: Unity.XR.Interaction.Toolkit
     namespaceName: UnityEngine.XR.Interaction.Toolkit.Transformers
@@ -2818,7 +2807,7 @@ ScriptsOnlyBuild:
     className: TMP_ColorGradient
   - hash:
       serializedVersion: 2
-      Hash: 75e97737ee4b87aaeadbeeaa145c8913
+      Hash: 42b049097d73b69b5904ad5d5a7f9e3c
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: ReplaceObject
@@ -3920,6 +3909,24 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: f3d1a553fae646d98290820acbccdaf7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ManageQuiz
+  - hash:
+      serializedVersion: 2
+      Hash: 14d18078d3b6e6d9c914c7b4f6914ad6
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: NextText
+  - hash:
+      serializedVersion: 2
+      Hash: c684ba70d863a3105d145b74c1802cfd
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: QuizManager
   platform: 21
   scenePathNames:
   - Assets/mrtkproject.unity
