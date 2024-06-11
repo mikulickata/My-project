@@ -5157,10 +5157,12 @@ m_ResolvedPackages:
     - 1.4.0
     - 1.4.1
     - 1.5.0-pre.1
+    - 1.5.0-pre.3
     compatible:
     - 1.4.0
     - 1.4.1
     - 1.5.0-pre.1
+    - 1.5.0-pre.3
     recommended: 1.4.1
     deprecated: []
   dependencies:

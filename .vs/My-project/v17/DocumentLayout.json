@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\mikul\\zavrsni-rad\\my-project\\assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|c:\\users\\mikul\\zavrsni-rad\\my-project\\assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nexttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|C:\\Users\\mikul\\zavrsni-rad\\My-project\\assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71812AFC-F4F3-29DB-1B2C-2470684F2D99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikul\\zavrsni-rad\\My-project\\Library\\PackageCache\\org.mixedrealitytoolkit.uxcore@fc881d722d9c\\Dialog\\Dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\Question.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Question.cs",
@@ -54,28 +54,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ManageQuiz.cs",
               "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManageQuiz.cs",
               "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ManageQuiz.cs",
               "RelativeToolTip": "Assets\\Scripts\\ManageQuiz.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAABqAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwDkAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T11:35:14.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NextText.cs",
               "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextText.cs",
               "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\NextText.cs",
               "RelativeToolTip": "Assets\\Scripts\\NextText.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEkAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:55:23.806Z"
+              "WhenOpened": "2024-05-18T17:55:23.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,15 +104,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ReplaceObject.cs",
               "DocumentMoniker": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplaceObject.cs",
               "ToolTip": "C:\\Users\\mikul\\zavrsni-rad\\My-project\\Assets\\Scripts\\ReplaceObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplaceObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:17:17.01Z"
+              "WhenOpened": "2024-05-15T09:17:17.01Z",
+              "EditorCaption": ""
             }
           ]
         }

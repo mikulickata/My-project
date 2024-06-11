@@ -7,12 +7,11 @@ public class NextText : MonoBehaviour
     public GameObject canvas1;
     public GameObject canvas2;
     public GameObject canvas3;
-    public GameObject canvas4;
 
-    public GameObject cube;
-    public GameObject planeOfTheCube;
-    public GameObject newCube;
-    public GameObject newPlaneOfTheCube;
+    public GameObject solid;
+    public GameObject planeOfTheSolid;
+    public GameObject newSolid;
+    public GameObject newPlaneOfTheSolid;
 
     //private QuizManager quizManager;
 
@@ -31,10 +30,10 @@ public class NextText : MonoBehaviour
         canvas2.SetActive(false);
         canvas3.SetActive(false);
 
-        cube.SetActive(false);
-        planeOfTheCube.SetActive(true);
-        newCube.SetActive(false);
-        newPlaneOfTheCube.SetActive(false);
+        solid.SetActive(false);
+        planeOfTheSolid.SetActive(true);
+        newSolid.SetActive(false);
+        newPlaneOfTheSolid.SetActive(false);
     }
 
     public void ShowCanvas2()
@@ -43,10 +42,10 @@ public class NextText : MonoBehaviour
         canvas2.SetActive(true);
         canvas3.SetActive(false);
 
-        cube.SetActive(true);
-        planeOfTheCube.SetActive(false);
-        newCube.SetActive(false);
-        newPlaneOfTheCube.SetActive(false);
+        solid.SetActive(true);
+        planeOfTheSolid.SetActive(false);
+        newSolid.SetActive(false);
+        newPlaneOfTheSolid.SetActive(false);
     }
 
     public void ShowCanvas3()
@@ -55,10 +54,10 @@ public class NextText : MonoBehaviour
         canvas2.SetActive(false);
         canvas3.SetActive(true);
 
-        cube.SetActive(false);
-        planeOfTheCube.SetActive(false);
-        newCube.SetActive(true);
-        newPlaneOfTheCube.SetActive(true);
+        solid.SetActive(false);
+        planeOfTheSolid.SetActive(false);
+        newSolid.SetActive(true);
+        newPlaneOfTheSolid.SetActive(true);
     }
 
     public void OnNextButtonCanvas1()
